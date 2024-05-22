@@ -1,1 +1,1 @@
-console.log("no issue");
+throw new Error("Somthing went wrong");
