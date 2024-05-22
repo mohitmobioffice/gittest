@@ -1,6 +1,6 @@
 function test() {
   try {
-    console.log("somthing");
+    console.log("Something");
 
     throw new Error("Somthing went wrong");
   } catch (error) {
